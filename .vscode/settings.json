@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",              // makes default code a bit thicker
+  "workbench.colorTheme": "Dark Chai"
+
+}
